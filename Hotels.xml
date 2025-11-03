@@ -12,7 +12,7 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
+      <NearstAirport>Sky Harbor</NearstAirport>
     </Address>
   </Hotel>
 
@@ -25,7 +25,7 @@
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85004</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
+      <NearstAirport>Sky Harbor</NearstAirport>
     </Address>
   </Hotel>
 
@@ -39,7 +39,7 @@
       <City>Scottsdale</City>
       <State>AZ</State>
       <Zip>85251</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
+      <NearstAirport>Sky Harbor</NearstAirport>
     </Address>
   </Hotel>
 
@@ -52,7 +52,7 @@
       <City>Chandler</City>
       <State>AZ</State>
       <Zip>85226</Zip>
-      <NearestAirport>Phoenix-Mesa Gateway</NearestAirport>
+      <NearstAirport>Phoenix-Mesa Gateway</NearstAirport>
     </Address>
   </Hotel>
 
@@ -66,7 +66,7 @@
       <City>Mesa</City>
       <State>AZ</State>
       <Zip>85210</Zip>
-      <NearestAirport>Phoenix-Mesa Gateway</NearestAirport>
+      <NearstAirport>Phoenix-Mesa Gateway</NearstAirport>
     </Address>
   </Hotel>
 
@@ -79,7 +79,7 @@
       <City>Glendale</City>
       <State>AZ</State>
       <Zip>85305</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
+      <NearstAirport>Sky Harbor</NearstAirport>
     </Address>
   </Hotel>
 
@@ -92,7 +92,7 @@
       <City>Flagstaff</City>
       <State>AZ</State>
       <Zip>86004</Zip>
-      <NearestAirport>Flagstaff Pulliam</NearestAirport>
+      <NearstAirport>Flagstaff Pulliam</NearstAirport>
     </Address>
   </Hotel>
 
@@ -105,7 +105,7 @@
       <City>Tucson</City>
       <State>AZ</State>
       <Zip>85704</Zip>
-      <NearestAirport>Tucson Intl</NearestAirport>
+      <NearstAirport>Tucson Intl</NearstAirport>
     </Address>
   </Hotel>
 
@@ -119,7 +119,7 @@
       <City>Yuma</City>
       <State>AZ</State>
       <Zip>85367</Zip>
-      <NearestAirport>Yuma Intl</NearestAirport>
+      <NearstAirport>Yuma Intl</NearstAirport>
     </Address>
   </Hotel>
 
@@ -132,7 +132,7 @@
       <City>Sedona</City>
       <State>AZ</State>
       <Zip>86336</Zip>
-      <NearestAirport>Flagstaff Pulliam</NearestAirport>
+      <NearstAirport>Flagstaff Pulliam</NearstAirport>
     </Address>
   </Hotel>
 
@@ -145,11 +145,12 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
+      <NearstAirport>Sky Harbor</NearstAirport>
     </Address>
   </Hotel>
 
 </Hotels>
+
 
 
 
