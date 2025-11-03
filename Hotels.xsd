@@ -18,7 +18,7 @@
                                         <xs:element name="City" type="xs:string"/>
                                         <xs:element name="State" type="xs:string"/>
                                         <xs:element name="Zip" type="xs:string"/>
-                                        <xs:element name="NearestAirport" type="xs:string" use="required"/>
+                                        <xs:element name="NearestAirport" type="xs:string"/>
                                     </xs:sequence>
                                 </xs:complexType>
                             </xs:element>
@@ -31,6 +31,7 @@
     </xs:element>
 
 </xs:schema>
+
 
 
 
