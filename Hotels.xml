@@ -11,7 +11,7 @@
 				<City>Tempe</City>
 				<State>AZ</State>
 				<Zip>85281</Zip>
-				<Address NearestAirport="Sky Harbor">
+				<NearestAirport>Sky Harbor</NearestAirport>
 			</Address>
 		</Hotel>
 
@@ -149,6 +149,7 @@
   </Hotel>
 
 </Hotels>
+
 
 
 
