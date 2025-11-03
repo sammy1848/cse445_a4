@@ -13,18 +13,17 @@
 							<xs:element name="Address">
 								<xs:complexType>
 									<xs:sequence>
-										<xs:element name="Number" type="xs:int"/>
+										<xs:element name="Number" type="xs:unsignedByte"/>
 										<xs:element name="Street" type="xs:string"/>
 										<xs:element name="City" type="xs:string"/>
 										<xs:element name="State" type="xs:string"/>
 										<xs:element name="Zip" type="xs:string"/>
-										<xs:element name="NearestAirport" type="xs:string"/>
+										<xs:element name="NearestAirport" type="xs:unsignedInt"/>
 									</xs:sequence>
 								</xs:complexType>
 							</xs:element>
 						</xs:sequence>
-						<xs:attribute name="Id" type="xs:int" use="required"/>
-						<xs:attribute name="Rating" type="xs:string" use="optional"/>
+						<xs:attribute name="Rating" type="xs:decimal" use="optional"/>
 					</xs:complexType>
 				</xs:element>
 			</xs:sequence>
@@ -32,5 +31,6 @@
 	</xs:element>
 
 </xs:schema>
+
 
 
