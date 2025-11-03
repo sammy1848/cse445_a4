@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- This file intentionally contains five validation errors. -->
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="https://sammy1848.github.io/cse445_a4/Hotels.xsd"
+
+
+			<!-- ERROR #1: wrong root element (should be <Hotels>) -->
+
+			<!-- ERROR #2: missing required attribute Id -->
+			<Hotel Rating="4.2">
+				<Name>Westin Tempe</Name>
+				<Phone>480-968-8885</Phone>
+				<Address>
+					<Number>11</Number>
+					<Street>E 7th St</Street>
+					<City>Tempe</City>
+					<State>AZ</State>
+					<Zip>85281</Zip>
+					<NearestAirport>Sky Harbor</NearestAirport>
+				</Address>
+			</Hotel>
+
+			<!-- ERROR #3: missing a Phone element -->
+			<Hotel Id="2" Rating="3.8">
+				<Name>Hyatt Place Downtown Phoenix</Name>
+				<Address>
+					<Number>150</Number>
+					<Street>E Adams St</Street>
+					<City>Phoenix</City>
+					<State>AZ</State>
+					<Zip>85004</Zip>
+					<NearestAirport>Sky Harbor</NearestAirport>
+				</Address>
+			</Hotel>
+
+			<!-- ERROR #4: unclosed Address tag -->
+			<Hotel Id="3">
+				<Name>Courtyard Scottsdale</Name>
+				<Phone>480-555-1199</Phone>
+				<Address>
+					<Number>3311</Number>
+					<Street>N Scottsdale Rd</Street>
+					<City>Scottsdale</City>
+					<State>AZ</State>
+					<!-- Missing closing </Address> tag -->
+				</Hotel>
+
+			<!-- ERROR #5: two Name elements -->
+			<Hotel Id="4" Rating="4.5">
+				<Name>Hilton Garden Inn Chandler</Name>
+				<Name>Duplicate Name</Name>
+				<Phone>480-555-3311</Phone>
+				<Address>
+					<Number>7465</Number>
+					<Street>S Priest Dr</Street>
+					<City>Chandler</City>
+					<State>AZ</State>
+					<Zip>85226</Zip>
+					<NearestAirport>Phoenix-Mesa Gateway</NearestAirport>
+				</Address>
+			</Hotel>
+
+		</Hotel>

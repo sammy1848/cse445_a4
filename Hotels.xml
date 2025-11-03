@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://sammy1848.github.io/cse445_a4/Hotels.xsd">
+
+  <Hotel Id="1" Rating="4.2">
+    <Name>Westin Tempe</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address>
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Id="2" Rating="3.8">
+    <Name>Hyatt Place Downtown Phoenix</Name>
+    <Phone>602-555-2211</Phone>
+    <Address>
+      <Number>150</Number>
+      <Street>E Adams St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Id="3">
+    <Name>Courtyard Scottsdale</Name>
+    <Phone>480-555-1199</Phone>
+    <Phone>480-555-2233</Phone>
+    <Address>
+      <Number>3311</Number>
+      <Street>N Scottsdale Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Id="4" Rating="4.5">
+    <Name>Hilton Garden Inn Chandler</Name>
+    <Phone>480-555-3311</Phone>
+    <Address>
+      <Number>7465</Number>
+      <Street>S Priest Dr</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85226</Zip>
+      <NearestAirport>Phoenix-Mesa Gateway</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Id="5">
+    <Name>Fairfield Inn Mesa</Name>
+    <Phone>480-555-7711</Phone>
+    <Phone>480-555-7712</Phone>
+    <Address>
+      <Number>1405</Number>
+      <Street>S Alma School Rd</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85210</Zip>
+      <NearestAirport>Phoenix-Mesa Gateway</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Id="6" Rating="4.1">
+    <Name>Residence Inn Glendale</Name>
+    <Phone>623-555-8822</Phone>
+    <Address>
+      <Number>7350</Number>
+      <Street>N Zanjero Blvd</Street>
+      <City>Glendale</City>
+      <State>AZ</State>
+      <Zip>85305</Zip>
+      <NearestAirport>Sky Harbor</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Id="7">
+    <Name>Holiday Inn Express Flagstaff</Name>
+    <Phone>928-555-1000</Phone>
+    <Address>
+      <Number>2320</Number>
+      <Street>E Lucky Ln</Street>
+      <City>Flagstaff</City>
+      <State>AZ</State>
+      <Zip>86004</Zip>
+      <NearestAirport>Flagstaff Pulliam</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Id="8" Rating="4.0">
+    <Name>La Quinta Inn Tucson</Name>
+    <Phone>520-555-8899</Phone>
+    <Address>
+      <Number>6404</Number>
+      <Street>N Oracle Rd</Street>
+      <City>Tucson</City>
+      <State>AZ</State>
+      <Zip>85704</Zip>
+      <NearestAirport>Tucson Intl</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Id="9">
+    <Name>Comfort Suites Yuma</Name>
+    <Phone>928-555-4455</Phone>
+    <Phone>928-555-5566</Phone>
+    <Address>
+      <Number>10553</Number>
+      <Street>S Fortuna Rd</Street>
+      <City>Yuma</City>
+      <State>AZ</State>
+      <Zip>85367</Zip>
+      <NearestAirport>Yuma Intl</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Id="10" Rating="4.3">
+    <Name>Embassy Suites Sedona</Name>
+    <Phone>928-555-6677</Phone>
+    <Address>
+      <Number>2250</Number>
+      <Street>W State Route 89A</Street>
+      <City>Sedona</City>
+      <State>AZ</State>
+      <Zip>86336</Zip>
+      <NearestAirport>Flagstaff Pulliam</NearestAirport>
+    </Address>
+  </Hotel>
+
+</Hotels>
