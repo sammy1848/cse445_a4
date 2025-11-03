@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://sammy1848.github.io/cse445_a4/Hotels.xsd"
         xsi:noNamespaceSchemaLocation="https://sammy1848.github.io/cse445_a4/Hotels.xsd">
 
   <Hotel Id="1" Rating="4.2">
@@ -137,5 +138,6 @@
   </Hotel>
 
 </Hotels>
+
 
 
