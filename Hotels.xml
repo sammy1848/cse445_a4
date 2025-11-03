@@ -8,7 +8,7 @@
     <Phone>800-937-8461</Phone>
     <Address>
       <Number>11</Number>
-      <Street>E. 7th St</Street>
+      <Street>E 7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
@@ -150,6 +150,7 @@
   </Hotel>
 
 </Hotels>
+
 
 
 
