@@ -2,7 +2,7 @@
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://sammy1848.github.io/cse445_a4/Hotels.xsd">
 
-<Hotel Id="1" Rating="4.2">
+<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>800-937-8461</Phone>
 		<Phone>480-968-8885</Phone>
@@ -15,7 +15,7 @@
 		</Address>
 	</Hotel>
 
-  <Hotel Id="2" Rating="3.8">
+  <Hotel Rating="3.8">
     <Name>Hyatt Place Downtown Phoenix</Name>
     <Phone>602-555-2211</Phone>
     <Address>
@@ -28,7 +28,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="3">
+  <Hotel>
     <Name>Courtyard Scottsdale</Name>
     <Phone>480-555-1199</Phone>
     <Phone>480-555-2233</Phone>
@@ -42,7 +42,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="4" Rating="4.5">
+  <Hotel Rating="4.5">
     <Name>Hilton Garden Inn Chandler</Name>
     <Phone>480-555-3311</Phone>
     <Address>
@@ -55,7 +55,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="5">
+  <Hotel>
     <Name>Fairfield Inn Mesa</Name>
     <Phone>480-555-7711</Phone>
     <Phone>480-555-7712</Phone>
@@ -69,7 +69,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="6" Rating="4.1">
+  <Hotel Rating="4.1">
     <Name>Residence Inn Glendale</Name>
     <Phone>623-555-8822</Phone>
     <Address>
@@ -82,7 +82,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="7">
+  <Hotel>
     <Name>Holiday Inn Express Flagstaff</Name>
     <Phone>928-555-1000</Phone>
     <Address>
@@ -95,7 +95,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="8" Rating="4.0">
+  <Hotel Rating="4.0">
     <Name>La Quinta Inn Tucson</Name>
     <Phone>520-555-8899</Phone>
     <Address>
@@ -108,7 +108,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="9">
+  <Hotel>
     <Name>Comfort Suites Yuma</Name>
     <Phone>928-555-4455</Phone>
     <Phone>928-555-5566</Phone>
@@ -122,7 +122,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="10" Rating="4.3">
+  <Hotel Rating="4.3">
     <Name>Embassy Suites Sedona</Name>
     <Phone>928-555-6677</Phone>
     <Address>
@@ -135,7 +135,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Id="11">
+  <Hotel>
     <Name>SpringHill Suites Tempe</Name>
     <Phone>480-555-7788</Phone>
     <Address>
@@ -149,6 +149,7 @@
   </Hotel>
 
 </Hotels>
+
 
 
 
