@@ -23,7 +23,6 @@
                                 </xs:complexType>
                             </xs:element>
                         </xs:sequence>
-                        <xs:attribute name="Id" type="xs:int" use="required"/>
                         <xs:attribute name="Rating" type="xs:string" use="optional"/>
                     </xs:complexType>
                 </xs:element>
@@ -32,6 +31,7 @@
     </xs:element>
 
 </xs:schema>
+
 
 
 
