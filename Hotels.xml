@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Hotel Rating="4.2">
+<Hotel Id="2" Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>800-937-8461</Phone>
 		<Phone>480-968-8885</Phone>
@@ -146,6 +146,7 @@
   </Hotel>
 
 </Hotels>
+
 
 
 
